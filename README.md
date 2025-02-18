@@ -12,7 +12,7 @@
 3. Lâm Hoàng An (Student1614870)
 
 ## Documentations
-[Documentations](https://github.com/hoangtuanqn/eProjectSem01/tree/main/Documentations)
+[Documentations](https://github.com/hoangtuanqn/eProjectSem01_MaverickDresses/tree/main/Documentation)
 
 ## Published Website
 [Published Website](https://project3.htuanqn.id.vn/)
