@@ -3,7 +3,7 @@
 ## Project Information
 - **Supervisor:** LÊ THANH NHÂN
 - **Semester:** 01
-- **Batch No:** T5.2410.E01
+- **Batch No:** T5.2410.E0
 - **Group No:** 02
 
 ## List Of Members
