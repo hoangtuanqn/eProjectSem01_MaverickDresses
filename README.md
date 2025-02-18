@@ -3,7 +3,7 @@
 ## Project Information
 - **Supervisor:** LÊ THANH NHÂN
 - **Semester:** 01
-- **Batch No:** T5.2410.E01
+- **Batch No:** T5.2410.E0
 - **Group No:** 02
 
 ## List Of Members
@@ -12,10 +12,11 @@
 3. Lâm Hoàng An (Student1614870)
 
 ## Documentations
+
 [Documentations](https://github.com/hoangtuanqn/eProjectSem01_MaverickDresses/tree/main/Documentation)
 
 ## Published Website
-[Published Website](https://project3.htuanqn.id.vn/)
+[Published Website]([https://project3.htuanqn.id.vn/](https://project3.htuanqn.id.vn/))
 
 ## Project Overview
 Dự án "Maverick Dresses" là một eProject được thiết kế và phát triển bởi sinh viên, dưới sự giám sát của giảng viên LÊ THANH NHÂN. Mục tiêu là xây dựng một nền tảng web hiện đại cho công ty sản xuất đồng phục Maverick Dresses, giải quyết các vấn đề về tiếp cận khách hàng và quảng bá sản phẩm trong kỷ nguyên số.
